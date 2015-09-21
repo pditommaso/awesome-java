@@ -43,6 +43,10 @@ Hashing
 * [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm.
 * [Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Zero-allocation hashing for Java.
 
+Http 
+-----
+* [OkHttp](https://github.com/square/okhttp) - HTTP+SPDY client for Android and Java applications.
+
 Math 
 -----
 * [Jblas](https://github.com/mikiobraun/jblas) - Linear Algebra for Java.
