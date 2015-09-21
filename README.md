@@ -46,6 +46,7 @@ Hashing
 Http 
 -----
 * [OkHttp](https://github.com/square/okhttp) - HTTP+SPDY client for Android and Java applications.
+* [Unirest](http://unirest.io/java.html) - Lightweight HTTP libraries for Java.
 
 Math 
 -----
