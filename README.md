@@ -56,6 +56,7 @@ Math
 
 Messaging 
 ----------
+* [Aeron](https://github.com/real-logic/Aeron) - Efficient reliable unicast and multicast message transport.
 * [MBassador](https://github.com/bennidi/mbassador) - Event bus aiming at ease of use and performance.
 * [Mappedbus](https://github.com/caplogic/Mappedbus) - Library for low latency IPC between multiple Java processes/JVMs.
 
