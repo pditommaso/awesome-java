@@ -16,6 +16,7 @@ Big collections & off-heap memory
 * [Level-db](https://github.com/dain/leveldb) - Port of LevelDB to Java.
 * [Lmdb-jni](https://github.com/chirino/lmdbjni) - Lightning Memory-Mapped Database.
 * [LMAXCollections](https://github.com/LMAX-Exchange/LMAXCollections) - LMAX Collections.
+* [PalDB](https://github.com/linkedin/PalDB) - An embeddable write-once key-value store.
 * [Radix-tree](https://github.com/thegedge/radix-tree) - Radix tree data structure that adheres to the `java.util.Map` interface.
 * [Mapdb](https://github.com/jankotek/mapdb) - Concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory.
 
