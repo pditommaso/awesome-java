@@ -61,6 +61,11 @@ Messaging
 * [MBassador](https://github.com/bennidi/mbassador) - Event bus aiming at ease of use and performance.
 * [Mappedbus](https://github.com/caplogic/Mappedbus) - Library for low latency IPC between multiple Java processes/JVMs.
 
+Native invocation / FFI 
+------------------------
+* [JavaCpp](https://github.com/bytedeco/javacpp) - Bridge between Java and native C++.
+* [JNA](https://github.com/java-native-access/jna) - Java Native Access.
+
 Regular expressions
 --------------------
 * [RE2/J](https://github.com/google/re2j) - Linear time regular expression matching in Java.
