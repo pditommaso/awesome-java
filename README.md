@@ -91,3 +91,10 @@ Other
 * [Airline](https://github.com/airlift/airline) - Annotation-based framework for parsing Git like command line structures.
 * [Drip](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
+
+Web frameworks 
+--------------
+* [Jooby](https://github.com/jooby-project/jooby) - Scalable, fast and modular micro web framework for Java.
+* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications .
+* [Spark](https://github.com/perwendel/spark) - A Sinatra inspired framework for java.
+* [Vert.x](https://github.com/eclipse/vert.x/) - Vert.x is a tool-kit for building reactive applications on the JVM.
