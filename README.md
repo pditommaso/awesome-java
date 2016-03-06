@@ -84,7 +84,9 @@ Serialization
 
 Testing
 ---------
+* [βetamax](https://github.com/betamaxteam/betamax) - Tool for mocking external HTTP web services and REST APIs.
 * [Overcast](https://github.com/xebialabs/overcast) - Helper classes to write your tests against hosts in the cloud.
+* [Spock](https://github.com/spockframework/spock) - Enterprise-ready testing and specification framework.
 
 Other 
 ------
