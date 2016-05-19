@@ -91,6 +91,7 @@ Testing
 Other 
 ------
 * [Airline](https://github.com/airlift/airline) - Annotation-based framework for parsing Git like command line structures.
+* [Allocation instrumenter](https://github.com/google/allocation-instrumenter) - Java agent that rewrites bytecode to instrument allocation sites.
 * [Bloofi](https://github.com/lemire/bloofi) - Multidimensional Bloom filters.
 * [Drip](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
