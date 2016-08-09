@@ -95,6 +95,7 @@ Other
 * [Bloofi](https://github.com/lemire/bloofi) - Multidimensional Bloom filters.
 * [Drip](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
+* [java-string-similarity](https://github.com/tdebatty/java-string-similarity)- Various string similarity and distance algorithms.
 
 Web frameworks 
 --------------
