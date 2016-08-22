@@ -7,6 +7,7 @@ Big collections & off-heap memory
 -----------------------------------
 
 * [Caffeine](https://github.com/ben-manes/caffeine) - High performance caching library for Java 8.
+* [Capsule](https://github.com/usethesource/capsule) - Capsule Hash Trie Collections Library.
 * [Cqengine](https://github.com/npgall/cqengine) - NoSQL collection indexing and query engine with ultra-low latency.
 * [ConcurrentLinkedHashMap](https://github.com/ben-manes/concurrentlinkedhashmap) - ConcurrentLinkedHashMap for Java.
 * [Concurrent-trees](https://github.com/npgall/concurrent-trees) - Concurrent Radix Trees and Concurrent Suffix Trees for Java.
