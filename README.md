@@ -81,6 +81,7 @@ Serialization
 ---------------
 * [Blixtser](https://github.com/Mojang/blixtser) - Fast Serialization library.
 * [Fast-serialization](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacement.
+* [Ion](https://github.com/amznlabs/ion-java) - Java streaming parser/serializer for Ion.
 * [Kryo](https://github.com/EsotericSoftware/kryo) - Fast, efficient, automatic Java serialization and cloning.
 * [Kryo-serializers](https://github.com/magro/kryo-serializers)
 
