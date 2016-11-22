@@ -48,6 +48,7 @@ Hashing
 
 Http 
 -----
+* [Http-builder-ng](https://github.com/dwclark/http-builder-ng) - The Easy Http Client for Groovy.
 * [OkHttp](https://github.com/square/okhttp) - HTTP+SPDY client for Android and Java applications.
 * [Unirest](http://unirest.io/java.html) - Lightweight HTTP libraries for Java.
 
