@@ -35,6 +35,7 @@ File system
 -------------
 * [Amazon-S3-FileSystem-NIO2](https://github.com/Upplication/Amazon-S3-FileSystem-NIO2) - S3 File System Provider for Java 7.
 * [Fuse-jna](https://github.com/EtiennePerot/fuse-jna) - Java bindings to FUSE using JNA.
+* [Javafs](https://github.com/puniverse/javafs) - Java filesystems as FUSE (++).
 * [Jimfs](https://github.com/google/jimfs) - in-memory file system for Java 7+.
 * [Jsr203-hadoop](https://github.com/damiencarol/jsr203-hadoop) - Java NIO file system provider for HDFS.
 * [Nfs4j](https://github.com/dCache/nfs4j) - Pure Java NFSv3 and NFSv4.1 implementation.
