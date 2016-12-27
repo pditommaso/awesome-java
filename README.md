@@ -53,6 +53,10 @@ Http
 * [OkHttp](https://github.com/square/okhttp) - HTTP+SPDY client for Android and Java applications.
 * [Unirest](http://unirest.io/java.html) - Lightweight HTTP libraries for Java.
 
+Logging
+-------
+* [blitz4j](https://github.com/Netflix/blitz4j) - Logging framework for fast asynchronous logging.
+
 Math 
 -----
 * [Jblas](https://github.com/mikiobraun/jblas) - Linear Algebra for Java.
