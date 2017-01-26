@@ -107,6 +107,7 @@ Other
 * [Failsafe](https://github.com/jhalterman/failsafe) - Simple, sophisticated failure handling.
 * [fast-classpath-scanner](https://github.com/lukehutch/fast-classpath-scanner) - Uber-fast, ultra-lightweight Java classpath scanner.
 * [java-string-similarity](https://github.com/tdebatty/java-string-similarity)- Various string similarity and distance algorithms.
+* [square/OKIO](https://github.com/square/OKIO) - A modern I/O API for Java.
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
 
 Web frameworks 
