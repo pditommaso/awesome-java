@@ -103,6 +103,7 @@ Other
 * [Airline](https://github.com/airlift/airline) - Annotation-based framework for parsing Git like command line structures.
 * [Allocation instrumenter](https://github.com/google/allocation-instrumenter) - Java agent that rewrites bytecode to instrument allocation sites.
 * [Bloofi](https://github.com/lemire/bloofi) - Multidimensional Bloom filters.
+* [Cfg4j](https://github.com/cfg4j/cfg4j) - Modern configuration library for distributed apps.
 * [Drip](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
 * [Failsafe](https://github.com/jhalterman/failsafe) - Simple, sophisticated failure handling.
 * [fast-classpath-scanner](https://github.com/lukehutch/fast-classpath-scanner) - Uber-fast, ultra-lightweight Java classpath scanner.
