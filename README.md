@@ -94,6 +94,8 @@ Serialization
 Syntax parsing
 --------------
 * [In-memory-antlr](https://github.com/julianthome/inmemantlr) - In Memory compilation of ANTLR grammars
+* [Java-parser](https://github.com/javaparser/javaparser) - Java 9 Parser and Abstract Syntax Tree for Java
+* [Groovy-Parrot](https://github.com/danielsun1106/groovy-parser) - Brand new parser for Groovy programming language.
 
 Testing
 ---------
