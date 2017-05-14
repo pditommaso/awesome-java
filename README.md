@@ -91,6 +91,10 @@ Serialization
 * [Kryo](https://github.com/EsotericSoftware/kryo) - Fast, efficient, automatic Java serialization and cloning.
 * [Kryo-serializers](https://github.com/magro/kryo-serializers)
 
+Syntax parsing
+--------------
+* [In-memory-antlr](https://github.com/julianthome/inmemantlr) - In Memory compilation of ANTLR grammars
+
 Testing
 ---------
 * [βetamax](https://github.com/betamaxteam/betamax) - Tool for mocking external HTTP web services and REST APIs.
