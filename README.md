@@ -5,9 +5,9 @@ A curated list of awesome Java libraries inspired by other Awesome lists
 
 AOT compilers 
 -------------
-[Excelsior JET](https://www.excelsiorjet.com/) 
-[Excelsior JET Gradle plugin](https://github.com/excelsior-oss/excelsior-jet-gradle-plugin) 
-[GraalVM AOT compiler](http://www.oracle.com/technetwork/oracle-labs/program-languages/overview/index.html) 
+* [Excelsior JET](https://www.excelsiorjet.com/) 
+* [Excelsior JET Gradle plugin](https://github.com/excelsior-oss/excelsior-jet-gradle-plugin) 
+* [GraalVM AOT compiler](http://www.oracle.com/technetwork/oracle-labs/program-languages/overview/index.html) 
 
 Big collections & off-heap memory  
 -----------------------------------
