@@ -62,6 +62,7 @@ Http
 Logging
 -------
 * [blitz4j](https://github.com/Netflix/blitz4j) - Logging framework for fast asynchronous logging.
+* [log4j2](https://logging.apache.org/log4j/2.x/) - Log4j2's LMAX Disruptor-based Async Loggers have 18 times higher throughput and orders of magnitude lower latency than Log4j 1.x and Logback.
 
 Math 
 -----
@@ -121,6 +122,7 @@ Other
 * [fast-classpath-scanner](https://github.com/lukehutch/fast-classpath-scanner) - Uber-fast, ultra-lightweight Java classpath scanner.
 * [Goodtimes](https://github.com/bdkosher/goodtimes) - Java 8 Date/Time API enhancements for Groovy.
 * [java-string-similarity](https://github.com/tdebatty/java-string-similarity)- Various string similarity and distance algorithms.
+* [picocli](http://picocli.info) - Annotation based command line parser with strong typing for both options and positional args and support for git-like subcommands. Usage help with ANSI colors. Easily included as source to avoid external dependencies.
 * [square/OKIO](https://github.com/square/OKIO) - A modern I/O API for Java.
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
 
