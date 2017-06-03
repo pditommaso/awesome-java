@@ -29,8 +29,9 @@ Big collections & off-heap memory
 
 Dataflow
 ----------
-* [Pipes](https://github.com/tinkerpop/pipes) - Lazy Data Flow Framework.
+* [Quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM.
 * [GPars](https://github.com/GPars/GPars) - Concurrency and parallelism framework for the JVM.
+* [Pipes](https://github.com/tinkerpop/pipes) - Lazy Data Flow Framework.
 
 DI
 -----
@@ -87,6 +88,7 @@ Regular expressions
 
 Reactive stream
 -----------------
+* [JDeferred](https://github.com/jdeferred/jdeferred) - Java Deferred/Promise library similar to JQuery.
 * [Reactive-streams](https://github.com/reactive-streams/reactive-streams-io/) - Reactive Streams Network Protocol.
 * [Simple-react](https://github.com/aol/simple-react) - Future Streams & Async Data Structures for Java 8.
 
