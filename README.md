@@ -27,6 +27,14 @@ Big collections & off-heap memory
 * [Radix-tree](https://github.com/thegedge/radix-tree) - Radix tree data structure that adheres to the `java.util.Map` interface.
 * [Mapdb](https://github.com/jankotek/mapdb) - Concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory.
 
+CLI parser 
+----------
+* [args4j](https://github.com/kohsuke/args4j)
+* [commandline](https://github.com/jankroken/commandline) - Annotation based command line parser.
+* [jbock](https://github.com/h908714124/jbock) - Curiously simple CLI parser.
+* [jopt-simple](https://github.com/jopt-simple/jopt-simple) - Java library for parsing command line options.
+* [picocli](http://picocli.info) - Annotation based command line parser with strong typing and support for git-like subcommands.
+
 Dataflow
 ----------
 * [Quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM.
@@ -124,7 +132,6 @@ Other
 * [fast-classpath-scanner](https://github.com/lukehutch/fast-classpath-scanner) - Uber-fast, ultra-lightweight Java classpath scanner.
 * [Goodtimes](https://github.com/bdkosher/goodtimes) - Java 8 Date/Time API enhancements for Groovy.
 * [java-string-similarity](https://github.com/tdebatty/java-string-similarity)- Various string similarity and distance algorithms.
-* [picocli](http://picocli.info) - Annotation based command line parser with strong typing and support for git-like subcommands.
 * [square/OKIO](https://github.com/square/OKIO) - A modern I/O API for Java.
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
 
