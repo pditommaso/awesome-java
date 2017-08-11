@@ -34,6 +34,8 @@ CLI parser
 * [jbock](https://github.com/h908714124/jbock) - Curiously simple CLI parser.
 * [jopt-simple](https://github.com/jopt-simple/jopt-simple) - Java library for parsing command line options.
 * [picocli](http://picocli.info) - Annotation based command line parser with strong typing and support for git-like subcommands.
+* [cli-toolbelt](https://github.com/simplifyops/cli-toolbelt) - (another) Annotation based command line builder with support for git-like subcommands, basic argument parsing and works with others like JewelCLI
+* [JewelCLI](https://github.com/lexicalscope/jewelcli/) - JewelCli uses an annotated interface or class definition to automatically parse and present command line arguments
 
 Dataflow
 ----------
