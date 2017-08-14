@@ -30,14 +30,12 @@ Big collections & off-heap memory
 CLI parser 
 ----------
 * [args4j](https://github.com/kohsuke/args4j)
-* [cli-toolbelt](https://github.com/simplifyops/cli-toolbelt) - Annotation based command line builder with support for git-like. 
+* [cli-toolbelt](https://github.com/simplifyops/cli-toolbelt) - Annotation based command line builder with support for git-like subcommands, basic argument parsing and works with others like JewelCLI
 * [commandline](https://github.com/jankroken/commandline) - Annotation based command line parser.
 * [jbock](https://github.com/h908714124/jbock) - Curiously simple CLI parser.
 * [JewelCLI](https://github.com/lexicalscope/jewelcli/) - Annotated interface to automatically parse and present command line arguments.
 * [jopt-simple](https://github.com/jopt-simple/jopt-simple) - Java library for parsing command line options.
 * [picocli](http://picocli.info) - Annotation based command line parser with strong typing and support for git-like subcommands.
-subcommands, basic argument parsing and works with others like JewelCLI
-
 
 Dataflow
 ----------
