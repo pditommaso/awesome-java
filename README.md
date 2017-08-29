@@ -30,6 +30,7 @@ Big collections & off-heap memory
 CLI parser 
 ----------
 * [args4j](https://github.com/kohsuke/args4j)
+* [barclay](https://github.com/broadinstitute/barclay) - Command line argument parser and online documentation generation utilities.
 * [cli-toolbelt](https://github.com/simplifyops/cli-toolbelt) - Annotation based command line builder with support for git-like subcommands, basic argument parsing and works with others like JewelCLI
 * [commandline](https://github.com/jankroken/commandline) - Annotation based command line parser.
 * [jbock](https://github.com/h908714124/jbock) - Curiously simple CLI parser.
