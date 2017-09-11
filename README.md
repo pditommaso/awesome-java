@@ -120,6 +120,7 @@ Syntax parsing
 Testing
 ---------
 * [βetamax](https://github.com/betamaxteam/betamax) - Tool for mocking external HTTP web services and REST APIs.
+* [Ersatz](http://stehno.com/ersatz/) - Mock HTTP server for testing client code.
 * [Overcast](https://github.com/xebialabs/overcast) - Helper classes to write your tests against hosts in the cloud.
 * [Spock](https://github.com/spockframework/spock) - Enterprise-ready testing and specification framework.
 * [WireMock](https://github.com/tomakehurst/wiremock) - A tool for mocking HTTP services.
