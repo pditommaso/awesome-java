@@ -9,10 +9,11 @@ AOT compilers
 * [Excelsior JET Gradle plugin](https://github.com/excelsior-oss/excelsior-jet-gradle-plugin) 
 * [GraalVM AOT compiler](http://www.oracle.com/technetwork/oracle-labs/program-languages/overview/index.html) 
 
-Big collections & off-heap memory  
------------------------------------
+Big collections, cache & off-heap memory  
+----------------------------------------
 
 * [Caffeine](https://github.com/ben-manes/caffeine) - High performance caching library for Java 8.
+* [Cache2k](https://github.com/cache2k/cache2k) - Lightweight, high performance Java caching.
 * [Capsule](https://github.com/usethesource/capsule) - Capsule Hash Trie Collections Library.
 * [Cqengine](https://github.com/npgall/cqengine) - NoSQL collection indexing and query engine with ultra-low latency.
 * [ConcurrentLinkedHashMap](https://github.com/ben-manes/concurrentlinkedhashmap) - ConcurrentLinkedHashMap for Java.
