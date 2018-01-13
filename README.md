@@ -30,6 +30,7 @@ Big collections, cache & off-heap memory
 
 CLI parser 
 ----------
+* [Airline](https://github.com/airlift/airline) - Annotation-based framework for parsing Git like command line structures.
 * [args4j](https://github.com/kohsuke/args4j)
 * [barclay](https://github.com/broadinstitute/barclay) - Command line argument parser and online documentation generation utilities.
 * [cli-toolbelt](https://github.com/simplifyops/cli-toolbelt) - Annotation based command line builder with support for git-like subcommands, basic argument parsing and works with others like JewelCLI.
@@ -129,7 +130,6 @@ Testing
 
 Other 
 ------
-* [Airline](https://github.com/airlift/airline) - Annotation-based framework for parsing Git like command line structures.
 * [Allocation instrumenter](https://github.com/google/allocation-instrumenter) - Java agent that rewrites bytecode to instrument allocation sites.
 * [Bloofi](https://github.com/lemire/bloofi) - Multidimensional Bloom filters.
 * [Cfg4j](https://github.com/cfg4j/cfg4j) - Modern configuration library for distributed apps.
