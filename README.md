@@ -52,6 +52,11 @@ DI
 * [Dagger](https://github.com/google/dagger) - Fast dependency injector.
 * [Tiger](https://github.com/google/tiger) - Fastest java dependency injection framework.
 
+Error handling
+--------------
+* [Failsafe](https://github.com/jhalterman/failsafe) - Simple, sophisticated failure handling.
+* [Resilience4j](https://github.com/resilience4j/resilience4j) - Fault tolerance library designed for Java8 and functional programming.
+
 File system 
 -------------
 * [Amazon-S3-FileSystem-NIO2](https://github.com/Upplication/Amazon-S3-FileSystem-NIO2) - S3 File System Provider for Java 7.
@@ -135,7 +140,6 @@ Other
 * [Cfg4j](https://github.com/cfg4j/cfg4j) - Modern configuration library for distributed apps.
 * [Docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client.
 * [Drip](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
-* [Failsafe](https://github.com/jhalterman/failsafe) - Simple, sophisticated failure handling.
 * [fast-classpath-scanner](https://github.com/lukehutch/fast-classpath-scanner) - Uber-fast, ultra-lightweight Java classpath scanner.
 * [Goodtimes](https://github.com/bdkosher/goodtimes) - Java 8 Date/Time API enhancements for Groovy.
 * [java-string-similarity](https://github.com/tdebatty/java-string-similarity)- Various string similarity and distance algorithms.
