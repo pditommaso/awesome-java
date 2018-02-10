@@ -41,6 +41,15 @@ CLI parser
 * [jopt-simple](https://github.com/jopt-simple/jopt-simple) - Java library for parsing command line options.
 * [picocli](http://picocli.info) - Annotation based command line parser with strong typing and support for git-like subcommands.
 
+DB engines
+----------
+* [Derby](https://db.apache.org/derby/) - Open source relational database implemented entirely in Java.
+* [H2](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
+* [LevelDB](https://github.com/dain/leveldb) - Port of LevelDB to Java.
+* [PalDB](https://github.com/linkedin/PalDB) - Embeddable write-once key-value store written in Java.
+* [MapDB](https://github.com/jankotek/mapdb/) - Fast and easy to use embedded Java database engine.
+* [Xodus](https://github.com/JetBrains/xodus/) - JetBrains Xodus is a Java transactional schema-less embedded database.
+
 Dataflow
 ----------
 * [Quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM.
