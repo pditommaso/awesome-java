@@ -27,6 +27,7 @@ Big collections, cache & off-heap memory
 * [PalDB](https://github.com/linkedin/PalDB) - An embeddable write-once key-value store.
 * [Radix-tree](https://github.com/thegedge/radix-tree) - Radix tree data structure that adheres to the `java.util.Map` interface.
 * [Mapdb](https://github.com/jankotek/mapdb) - Concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory.
+* [Vmlens](https://github.com/vmlens/executor-service) - ExecutorService supporting multiple writing and a single reading thread.
 
 CLI parser 
 ----------
