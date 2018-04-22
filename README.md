@@ -45,6 +45,7 @@ CLI parser
 DB engines
 ----------
 * [Derby](https://db.apache.org/derby/) - Open source relational database implemented entirely in Java.
+* [Gaffer](https://github.com/gchq/Gaffer) - Large-scale entity and relation database supporting aggregation of properties.
 * [H2](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
 * [LevelDB](https://github.com/dain/leveldb) - Port of LevelDB to Java.
 * [PalDB](https://github.com/linkedin/PalDB) - Embeddable write-once key-value store written in Java.
