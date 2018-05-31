@@ -54,6 +54,7 @@ DB engines
 
 Dataflow
 ----------
+* [JCSP](https://github.com/CSPforJAVA/jcsp) - Communicating Sequential Processes (CSP) for Java.
 * [Quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM.
 * [GPars](https://github.com/GPars/GPars) - Concurrency and parallelism framework for the JVM.
 * [Pipes](https://github.com/tinkerpop/pipes) - Lazy Data Flow Framework.
