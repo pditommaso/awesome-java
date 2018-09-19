@@ -148,6 +148,7 @@ Testing
 Other 
 ------
 * [Allocation instrumenter](https://github.com/google/allocation-instrumenter) - Java agent that rewrites bytecode to instrument allocation sites.
+* [Arthas](https://github.com/alibaba/arthas) - Alibaba Java Profiling and Diagnostic Tool Arthas.
 * [Bloofi](https://github.com/lemire/bloofi) - Multidimensional Bloom filters.
 * [Cfg4j](https://github.com/cfg4j/cfg4j) - Modern configuration library for distributed apps.
 * [Docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client.
@@ -162,6 +163,7 @@ Other
 Web frameworks 
 --------------
 * [Jooby](https://github.com/jooby-project/jooby) - Scalable, fast and modular micro web framework for Java.
+* [Micronaut](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework.
 * [Play framework](https://github.com/playframework/playframework) - High Velocity Web Framework.
 * [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications .
 * [Spark](https://github.com/perwendel/spark) - A Sinatra inspired framework for java.
