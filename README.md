@@ -157,6 +157,7 @@ Other
 * [Goodtimes](https://github.com/bdkosher/goodtimes) - Java 8 Date/Time API enhancements for Groovy.
 * [java-string-similarity](https://github.com/tdebatty/java-string-similarity)- Various string similarity and distance algorithms.
 * [jOOR](https://github.com/jOOQ/jOOR) - Fluent Reflection in Java.
+* [Permit-reflect](https://github.com/nqzero/permit-reflect) - Permit reflective access for java 11.
 * [square/OKIO](https://github.com/square/OKIO) - A modern I/O API for Java.
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
 
