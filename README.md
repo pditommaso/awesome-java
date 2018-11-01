@@ -47,6 +47,7 @@ DB engines
 * [Derby](https://db.apache.org/derby/) - Open source relational database implemented entirely in Java.
 * [Gaffer](https://github.com/gchq/Gaffer) - Large-scale entity and relation database supporting aggregation of properties.
 * [H2](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
+* [HSQLDB](https://sourceforge.net/p/hsqldb/hsqldb/ref/master) - HSQLDB (Hyper SQL Database) is a relational database management system written in Java, offering a fast, small database engine which offers both in-memory and disk-based tables
 * [LevelDB](https://github.com/dain/leveldb) - Port of LevelDB to Java.
 * [PalDB](https://github.com/linkedin/PalDB) - Embeddable write-once key-value store written in Java.
 * [MapDB](https://github.com/jankotek/mapdb/) - Fast and easy to use embedded Java database engine.
