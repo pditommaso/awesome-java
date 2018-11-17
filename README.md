@@ -139,6 +139,10 @@ Syntax parsing
 * [Java-parser](https://github.com/javaparser/javaparser) - Java 9 Parser and Abstract Syntax Tree for Java
 * [Groovy-Parrot](https://github.com/danielsun1106/groovy-parser) - Brand new parser for Groovy programming language.
 
+Templating 
+----------
+* [handlebars](https://github.com/jknack/handlebars.java) - Logic-less and semantic Mustache templates with Java
+
 Testing
 ---------
 * [βetamax](https://github.com/betamaxteam/betamax) - Tool for mocking external HTTP web services and REST APIs.
