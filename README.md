@@ -159,6 +159,7 @@ Other
 * [Cfg4j](https://github.com/cfg4j/cfg4j) - Modern configuration library for distributed apps.
 * [Docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client.
 * [Drip](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
+* [Fastfilter](https://github.com/FastFilter/fastfilter_java) - Fast Approximate Membership (Bloom) Filters (aka [xor-filter](https://github.com/FastFilter/xorfilter)) 
 * [fast-classpath-scanner](https://github.com/lukehutch/fast-classpath-scanner) - Uber-fast, ultra-lightweight Java classpath scanner.
 * [Goodtimes](https://github.com/bdkosher/goodtimes) - Java 8 Date/Time API enhancements for Groovy.
 * [java-string-similarity](https://github.com/tdebatty/java-string-similarity)- Various string similarity and distance algorithms.
