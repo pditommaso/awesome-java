@@ -166,6 +166,7 @@ Other
 * [jOOR](https://github.com/jOOQ/jOOR) - Fluent Reflection in Java.
 * [Permit-reflect](https://github.com/nqzero/permit-reflect) - Permit reflective access for java 11.
 * [square/OKIO](https://github.com/square/OKIO) - A modern I/O API for Java.
+* [TornadoVM](https://github.com/beehive-lab/TornadoVM) - Automatically run Java programs on GPUs
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
 
 Web frameworks 
