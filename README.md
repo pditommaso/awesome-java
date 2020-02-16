@@ -164,7 +164,7 @@ Other
 * [Goodtimes](https://github.com/bdkosher/goodtimes) - Java 8 Date/Time API enhancements for Groovy.
 * [java-string-similarity](https://github.com/tdebatty/java-string-similarity)- Various string similarity and distance algorithms.
 * [jOOR](https://github.com/jOOQ/jOOR) - Fluent Reflection in Java.
-* [K8s-cli-java](https://github.com/codementor/k8s-cli-java) - Simple Java Demo of Kubernetes kubectl plugin.
+* [K8s-cli-java](https://github.com/codementor/k8s-cli-java) - Simple Java Demo of Kubernetes kubectl plugin + Java Graal native image.
 * [Permit-reflect](https://github.com/nqzero/permit-reflect) - Permit reflective access for java 11.
 * [square/OKIO](https://github.com/square/OKIO) - A modern I/O API for Java.
 * [TornadoVM](https://github.com/beehive-lab/TornadoVM) - Automatically run Java programs on GPUs
