@@ -87,7 +87,8 @@ Hashing
 * [Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Zero-allocation hashing for Java.
 * [hashids-java](https://github.com/10cella/hashids-java) - generate short unique ids from integers - https://hashids.org/java/
 * [icecore-hashids](https://github.com/arcticicestudio/icecore-hashids) - lightweight generator for short, unique, non-sequential and decodable Hashids from non-negative numbers
-* [jnanoid](https://github.com/aventrix/jnanoid) - tiny (108 bytes), secure, URL-friendly, unique string ID generator - https://github.com/ai/nanoid 
+* [jnanoid](https://github.com/aventrix/jnanoid) - tiny (108 bytes), secure, URL-friendly, unique string ID generator - https://github.com/ai/nanoid
+* [friendly-id](https://github.com/Devskiller/friendly-id) - Converts a given UUID to Base62 format (22 chars)
 
 Http 
 -----
