@@ -85,6 +85,9 @@ Hashing
 * [Lz4-java](https://github.com/jpountz/lz4-java) - LZ4 compression for Java.
 * [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm.
 * [Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Zero-allocation hashing for Java.
+* [hashids-java](https://github.com/10cella/hashids-java) - generate short unique ids from integers - https://hashids.org/java/
+* [icecore-hashids](https://github.com/arcticicestudio/icecore-hashids) - lightweight generator for short, unique, non-sequential and decodable Hashids from non-negative numbers
+* [jnanoid](https://github.com/aventrix/jnanoid) - tiny (108 bytes), secure, URL-friendly, unique string ID generator - https://github.com/ai/nanoid 
 
 Http 
 -----
