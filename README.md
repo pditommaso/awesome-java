@@ -28,6 +28,7 @@ Big collections, cache & off-heap memory
 * [Radix-tree](https://github.com/thegedge/radix-tree) - Radix tree data structure that adheres to the `java.util.Map` interface.
 * [Mapdb](https://github.com/jankotek/mapdb) - Concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory.
 * [Vmlens](https://github.com/vmlens/executor-service) - ExecutorService supporting multiple writing and a single reading thread.
+* [Weak-lock-free](https://github.com/raphw/weak-lock-free) - concurrent map with weak keys and a detached thread local storage.
 
 CLI parser 
 ----------
