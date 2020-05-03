@@ -162,6 +162,7 @@ Other
 * [Arthas](https://github.com/alibaba/arthas) - Alibaba Java Profiling and Diagnostic Tool Arthas.
 * [Bloofi](https://github.com/lemire/bloofi) - Multidimensional Bloom filters.
 * [Cfg4j](https://github.com/cfg4j/cfg4j) - Modern configuration library for distributed apps.
+* [directory-watcher](https://github.com/gmethvin/directory-watcher) - cross-platform Java recursive directory watcher, with a JNA macOS watcher.
 * [Docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client.
 * [Drip](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
 * [Fastfilter](https://github.com/FastFilter/fastfilter_java) - Fast Approximate Membership (Bloom) Filters (aka [xor-filter](https://github.com/FastFilter/xorfilter)) 
