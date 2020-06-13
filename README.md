@@ -43,6 +43,11 @@ CLI parser
 * [jopt-simple](https://github.com/jopt-simple/jopt-simple) - Java library for parsing command line options.
 * [picocli](http://picocli.info) - Annotation based command line parser with strong typing and support for git-like subcommands.
 
+Crypto 
+------- 
+* [https://github.com/jchambers/java-otp/] - A one-time password (HOTP/TOTP) library for Java.
+* [https://github.com/j256/two-factor-auth] - Two Factor Authentication Java code implementing the Time-based One-time Password Algorithm.
+
 DB engines
 ----------
 * [Derby](https://db.apache.org/derby/) - Open source relational database implemented entirely in Java.
