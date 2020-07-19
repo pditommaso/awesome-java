@@ -16,6 +16,7 @@ Big collections, cache & off-heap memory
 * [Cache2k](https://github.com/cache2k/cache2k) - Lightweight, high performance Java caching.
 * [Capsule](https://github.com/usethesource/capsule) - Capsule Hash Trie Collections Library.
 * [Cqengine](https://github.com/npgall/cqengine) - NoSQL collection indexing and query engine with ultra-low latency.
+* [Coherence](https://github.com/oracle/coherence) - Oracle Coherence [Community Edition](https://coherence.community/) and [Hibernate support](http://coherence.java.net/coherence-hibernate/1.0.0/).
 * [ConcurrentLinkedHashMap](https://github.com/ben-manes/concurrentlinkedhashmap) - ConcurrentLinkedHashMap for Java.
 * [Concurrent-trees](https://github.com/npgall/concurrent-trees) - Concurrent Radix Trees and Concurrent Suffix Trees for Java.
 * [Chronicle-Map](https://github.com/OpenHFT/Chronicle-Map) - High performance key-value store.
