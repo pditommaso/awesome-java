@@ -46,8 +46,8 @@ CLI parser
 
 Crypto 
 ------- 
-* [https://github.com/jchambers/java-otp/] - A one-time password (HOTP/TOTP) library for Java.
-* [https://github.com/j256/two-factor-auth] - Two Factor Authentication Java code implementing the Time-based One-time Password Algorithm.
+* [java-otp](https://github.com/jchambers/java-otp/) - A one-time password (HOTP/TOTP) library for Java.
+* [two-factor-auth](https://github.com/j256/two-factor-auth) - Two Factor Authentication Java code implementing the Time-based One-time Password Algorithm.
 
 DB engines
 ----------
@@ -154,6 +154,12 @@ Syntax parsing
 Templating 
 ----------
 * [handlebars](https://github.com/jknack/handlebars.java) - Logic-less and semantic Mustache templates with Java
+
+Task scheduler
+--------------
+[Workhorse](https://github.com/coodoo-io/workhorse) - Java EE Job Engine for background jobs and business critical tasks
+[Sundial](https://github.com/knowm/Sundial) - Lightweight Java job scheduling framework forked from Quartz
+[ShedLock](https://github.com/lukas-krecan/ShedLock) - Distributed lock for your scheduled tasks
 
 Testing
 ---------
