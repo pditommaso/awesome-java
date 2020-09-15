@@ -110,11 +110,12 @@ Logging
 * [blitz4j](https://github.com/Netflix/blitz4j) - Logging framework for fast asynchronous logging.
 * [log4j2](https://logging.apache.org/log4j/2.x/) - Async Loggers have 18 times higher throughput than Log4j 1.x and Logback.
 
-Math 
------
+Math & ML
+---------
 * [Jblas](https://github.com/mikiobraun/jblas) - Linear Algebra for Java.
 * [FastR](https://github.com/allr/purdue-fastr) - R language intepreter.  
 * [Renjin](https://github.com/bedatadriven/renjin) - JVM-based interpreter for the R language.
+* [Tribuo](https://github.com/oracle/tribuo) - Machine learning lib by Oracle
 
 Messaging 
 ----------
