@@ -190,6 +190,7 @@ Other
 * [square/OKIO](https://github.com/square/OKIO) - A modern I/O API for Java.
 * [TornadoVM](https://github.com/beehive-lab/TornadoVM) - Automatically run Java programs on GPUs
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
+* [Lombok](https://projectlombok.org/) - Lombok is used to reduce boilerplate code for model/data objects.
 
 Web frameworks 
 --------------
