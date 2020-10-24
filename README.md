@@ -128,6 +128,11 @@ Native invocation / FFI
 * [JavaCpp](https://github.com/bytedeco/javacpp) - Bridge between Java and native C++.
 * [JNA](https://github.com/java-native-access/jna) - Java Native Access.
 
+Packaging
+--------- 
+* [badass-runtime-plugin](https://github.com/beryx/badass-runtime-plugin) - Create a custom runtime image of your non-modular application
+* [pf4j](https://github.com/pf4j/pf4j) - Plugin Framework for Java
+
 Regular expressions
 --------------------
 * [RE2/J](https://github.com/google/re2j) - Linear time regular expression matching in Java.
@@ -186,11 +191,13 @@ Other
 * [jOOR](https://github.com/jOOQ/jOOR) - Fluent Reflection in Java.
 * [jvmtop](https://github.com/patric-r/jvmtop/) - Java monitoring for the command-line - Java 11 fork [see here](https://github.com/patric-r/jvmtop/issues/109#issuecomment-622044148)
 * [K8s-cli-java](https://github.com/codementor/k8s-cli-java) - Simple Java Demo of Kubernetes kubectl plugin + Java Graal native image.
+* [Lombok](https://projectlombok.org/) - Lombok is used to reduce boilerplate code for model/data objects.
 * [Permit-reflect](https://github.com/nqzero/permit-reflect) - Permit reflective access for java 11.
 * [square/OKIO](https://github.com/square/OKIO) - A modern I/O API for Java.
+* [text-io](https://github.com/beryx/text-io) - library for creating interactive console applications in Java
 * [TornadoVM](https://github.com/beehive-lab/TornadoVM) - Automatically run Java programs on GPUs
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
-* [Lombok](https://projectlombok.org/) - Lombok is used to reduce boilerplate code for model/data objects.
+
 
 Web frameworks 
 --------------
