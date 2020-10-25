@@ -184,6 +184,7 @@ Other
 * [directory-watcher](https://github.com/gmethvin/directory-watcher) - cross-platform Java recursive directory watcher, with a JNA macOS watcher.
 * [Docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client.
 * [Drip](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
+* [emoji-java](https://github.com/Coding/emoji-java) - Java library that helps you use Emojis in your java applications.
 * [Fastfilter](https://github.com/FastFilter/fastfilter_java) - Fast Approximate Membership (Bloom) Filters (aka [xor-filter](https://github.com/FastFilter/xorfilter)) 
 * [fast-classpath-scanner](https://github.com/lukehutch/fast-classpath-scanner) - Uber-fast, ultra-lightweight Java classpath scanner.
 * [Goodtimes](https://github.com/bdkosher/goodtimes) - Java 8 Date/Time API enhancements for Groovy.
