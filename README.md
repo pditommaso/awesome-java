@@ -190,6 +190,7 @@ Other
 * [emoji-java](https://github.com/Coding/emoji-java) - Java library that helps you use Emojis in your java applications.
 * [Fastfilter](https://github.com/FastFilter/fastfilter_java) - Fast Approximate Membership (Bloom) Filters (aka [xor-filter](https://github.com/FastFilter/xorfilter)) 
 * [fast-classpath-scanner](https://github.com/lukehutch/fast-classpath-scanner) - Uber-fast, ultra-lightweight Java classpath scanner.
+* [file-leak-detector](https://github.com/kohsuke/file-leak-detector) - Java agent that detects file handle leak.
 * [Goodtimes](https://github.com/bdkosher/goodtimes) - Java 8 Date/Time API enhancements for Groovy.
 * [java-string-similarity](https://github.com/tdebatty/java-string-similarity)- Various string similarity and distance algorithms.
 * [jOOR](https://github.com/jOOQ/jOOR) - Fluent Reflection in Java.
