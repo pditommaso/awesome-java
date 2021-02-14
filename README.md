@@ -72,6 +72,7 @@ DI
 -----
 * [Dagger](https://github.com/google/dagger) - Fast dependency injector.
 * [Tiger](https://github.com/google/tiger) - Fastest java dependency injection framework.
+* [Purejin](https://github.com/jbee/purejin) - Java dependency injection through code.
 
 Error handling
 --------------
