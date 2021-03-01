@@ -47,6 +47,7 @@ CLI parser
 Crypto 
 ------- 
 * [java-otp](https://github.com/jchambers/java-otp/) - A one-time password (HOTP/TOTP) library for Java.
+* [OTP-Java](https://github.com/BastiaanJansen/OTP-Java) - One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
 * [two-factor-auth](https://github.com/j256/two-factor-auth) - Two Factor Authentication Java code implementing the Time-based One-time Password Algorithm.
 
 DB engines
