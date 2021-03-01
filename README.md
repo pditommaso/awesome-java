@@ -198,6 +198,7 @@ Other
 * [jvmtop](https://github.com/patric-r/jvmtop/) - Java monitoring for the command-line - Java 11 fork [see here](https://github.com/patric-r/jvmtop/issues/109#issuecomment-622044148)
 * [K8s-cli-java](https://github.com/codementor/k8s-cli-java) - Simple Java Demo of Kubernetes kubectl plugin + Java Graal native image.
 * [Lombok](https://projectlombok.org/) - Lombok is used to reduce boilerplate code for model/data objects.
+* [OTP-Java](https://github.com/BastiaanJansen/OTP-Java) - One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
 * [Permit-reflect](https://github.com/nqzero/permit-reflect) - Permit reflective access for java 11.
 * [square/OKIO](https://github.com/square/OKIO) - A modern I/O API for Java.
 * [text-io](https://github.com/beryx/text-io) - library for creating interactive console applications in Java
