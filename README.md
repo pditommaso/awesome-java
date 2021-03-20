@@ -49,6 +49,7 @@ Crypto
 * [java-otp](https://github.com/jchambers/java-otp/) - A one-time password (HOTP/TOTP) library for Java.
 * [OTP-Java](https://github.com/BastiaanJansen/OTP-Java) - One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
 * [two-factor-auth](https://github.com/j256/two-factor-auth) - Two Factor Authentication Java code implementing the Time-based One-time Password Algorithm.
+* [JWT-Java](https://github.com/BastiaanJansen/JWT-Java) - JSON Web Token implementation for Java according to RFC 7519.
 
 DB engines
 ----------
@@ -204,7 +205,7 @@ Other
 * [text-io](https://github.com/beryx/text-io) - library for creating interactive console applications in Java
 * [TornadoVM](https://github.com/beehive-lab/TornadoVM) - Automatically run Java programs on GPUs
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
-* [JWT-Java](https://github.com/BastiaanJansen/JWT-Java) - JSON Web Token implementation for Java according to RFC 7519.
+* [immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders
 
 
 Web frameworks 
