@@ -204,6 +204,7 @@ Other
 * [text-io](https://github.com/beryx/text-io) - library for creating interactive console applications in Java
 * [TornadoVM](https://github.com/beehive-lab/TornadoVM) - Automatically run Java programs on GPUs
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
+* [JWT-Java](https://github.com/BastiaanJansen/JWT-Java) - JSON Web Token implementation for Java according to RFC 7519.
 
 
 Web frameworks 
