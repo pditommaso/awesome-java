@@ -169,9 +169,10 @@ Templating
 
 Task scheduler
 --------------
-[Workhorse](https://github.com/coodoo-io/workhorse) - Java EE Job Engine for background jobs and business critical tasks
-[Sundial](https://github.com/knowm/Sundial) - Lightweight Java job scheduling framework forked from Quartz
-[ShedLock](https://github.com/lukas-krecan/ShedLock) - Distributed lock for your scheduled tasks
+* [Jobrunr](https://github.com/jobrunr/jobrunr) - Background processing in Java. Backed by persistent storage.
+* [Workhorse](https://github.com/coodoo-io/workhorse) - Java EE Job Engine for background jobs and business critical tasks
+* [Sundial](https://github.com/knowm/Sundial) - Lightweight Java job scheduling framework forked from Quartz
+* [ShedLock](https://github.com/lukas-krecan/ShedLock) - Distributed lock for your scheduled tasks
 
 Testing
 ---------
