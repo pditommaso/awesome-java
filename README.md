@@ -206,7 +206,8 @@ Other
 * [text-io](https://github.com/beryx/text-io) - library for creating interactive console applications in Java
 * [TornadoVM](https://github.com/beehive-lab/TornadoVM) - Automatically run Java programs on GPUs
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
-* [immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders
+* [immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders.
+* [hibernate-types](https://github.com/vladmihalcea/hibernate-types) - Extra types that are not supported by the Hibernate ORM core.
 
 
 Web frameworks 
