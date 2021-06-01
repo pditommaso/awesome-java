@@ -199,6 +199,7 @@ Other
 * [java-string-similarity](https://github.com/tdebatty/java-string-similarity)- Various string similarity and distance algorithms.
 * [jOOR](https://github.com/jOOQ/jOOR) - Fluent Reflection in Java.
 * [jvmtop](https://github.com/patric-r/jvmtop/) - Java monitoring for the command-line - Java 11 fork [see here](https://github.com/patric-r/jvmtop/issues/109#issuecomment-622044148)
+* [jmail](https://github.com/RohanNagar/jmail) - modern and lightweight library for working with email addresses in Java
 * [K8s-cli-java](https://github.com/codementor/k8s-cli-java) - Simple Java Demo of Kubernetes kubectl plugin + Java Graal native image.
 * [Lombok](https://projectlombok.org/) - Lombok is used to reduce boilerplate code for model/data objects.
 * [Permit-reflect](https://github.com/nqzero/permit-reflect) - Permit reflective access for java 11.
