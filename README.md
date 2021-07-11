@@ -184,6 +184,7 @@ Testing
 
 Other 
 ------
+* [asciitable](https://github.com/vdmeer/asciitable) - Several implementations of a text table, originally using ASCII and UTF-8 characters for borders.
 * [Allocation instrumenter](https://github.com/google/allocation-instrumenter) - Java agent that rewrites bytecode to instrument allocation sites.
 * [Arthas](https://github.com/alibaba/arthas) - Alibaba Java Profiling and Diagnostic Tool Arthas.
 * [Bloofi](https://github.com/lemire/bloofi) - Multidimensional Bloom filters.
