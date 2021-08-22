@@ -9,6 +9,12 @@ AOT compilers
 * [Excelsior JET Gradle plugin](https://github.com/excelsior-oss/excelsior-jet-gradle-plugin) 
 * [GraalVM AOT compiler](http://www.oracle.com/technetwork/oracle-labs/program-languages/overview/index.html) 
 
+Annotation processor
+--------------------
+* [immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders.
+* [Lombok](https://projectlombok.org/) - Lombok is used to reduce boilerplate code for model/data objects.
+* [mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
+
 Big collections, cache & off-heap memory  
 ----------------------------------------
 
@@ -203,15 +209,12 @@ Other
 * [jvmtop](https://github.com/patric-r/jvmtop/) - Java monitoring for the command-line - Java 11 fork [see here](https://github.com/patric-r/jvmtop/issues/109#issuecomment-622044148)
 * [jmail](https://github.com/RohanNagar/jmail) - modern and lightweight library for working with email addresses in Java
 * [K8s-cli-java](https://github.com/codementor/k8s-cli-java) - Simple Java Demo of Kubernetes kubectl plugin + Java Graal native image.
-* [Lombok](https://projectlombok.org/) - Lombok is used to reduce boilerplate code for model/data objects.
 * [Permit-reflect](https://github.com/nqzero/permit-reflect) - Permit reflective access for java 11.
 * [square/OKIO](https://github.com/square/OKIO) - A modern I/O API for Java.
 * [text-io](https://github.com/beryx/text-io) - library for creating interactive console applications in Java
 * [TornadoVM](https://github.com/beehive-lab/TornadoVM) - Automatically run Java programs on GPUs
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
-* [immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders.
 * [hibernate-types](https://github.com/vladmihalcea/hibernate-types) - Extra types that are not supported by the Hibernate ORM core.
-
 
 Web frameworks 
 --------------
