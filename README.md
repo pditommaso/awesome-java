@@ -222,3 +222,6 @@ Web frameworks
 * [Spark](https://github.com/perwendel/spark) - A Sinatra inspired framework for java.
 * [Vert.x](https://github.com/eclipse/vert.x/) - Vert.x is a tool-kit for building reactive applications on the JVM.
 
+Tutorial
+--------
+* [Understanding Gradle](https://www.youtube.com/watch?v=Ajs8pTbg8as&list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE&index=1)
