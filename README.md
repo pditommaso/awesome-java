@@ -215,6 +215,10 @@ Other
 * [TornadoVM](https://github.com/beehive-lab/TornadoVM) - Automatically run Java programs on GPUs
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
 * [hibernate-types](https://github.com/vladmihalcea/hibernate-types) - Extra types that are not supported by the Hibernate ORM core.
+* CraC project - Java checkpoint & restore API
+   - https://github.com/openjdk/crac
+   - https://wiki.openjdk.java.net/display/crac/Main
+   - https://openjdk.java.net/projects/crac/
 
 Web frameworks 
 --------------
@@ -228,3 +232,4 @@ Web frameworks
 Tutorial
 --------
 * [Understanding Gradle](https://www.youtube.com/watch?v=Ajs8pTbg8as&list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE&index=1)
+
