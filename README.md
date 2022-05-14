@@ -37,6 +37,15 @@ Big collections, cache & off-heap memory
 * [Vmlens](https://github.com/vmlens/executor-service) - ExecutorService supporting multiple writing and a single reading thread.
 * [Weak-lock-free](https://github.com/raphw/weak-lock-free) - concurrent map with weak keys and a detached thread local storage.
 
+Checkpoint & restore 
+--------------------
+* https://github.com/openjdk/crac
+* https://wiki.openjdk.java.net/display/crac/Main
+* https://openjdk.java.net/projects/crac/
+* https://foojay.io/today/introducing-the-openjdk-coordinated-restore-at-checkpoint-project/
+* https://thenewstack.io/azul-proposes-java-state-api-to-speed-app-start-up-times/
+* https://mbien.dev/blog/entry/crac-coordinated-restore-at-checkpoint
+
 CLI parser 
 ----------
 * [Airline](https://github.com/airlift/airline) - Annotation-based framework for parsing Git like command line structures.
@@ -215,10 +224,7 @@ Other
 * [TornadoVM](https://github.com/beehive-lab/TornadoVM) - Automatically run Java programs on GPUs
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
 * [hibernate-types](https://github.com/vladmihalcea/hibernate-types) - Extra types that are not supported by the Hibernate ORM core.
-* CraC project - Java checkpoint & restore API
-   - https://github.com/openjdk/crac
-   - https://wiki.openjdk.java.net/display/crac/Main
-   - https://openjdk.java.net/projects/crac/
+
 
 Web frameworks 
 --------------
