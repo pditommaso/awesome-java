@@ -37,6 +37,11 @@ Big collections, cache & off-heap memory
 * [Vmlens](https://github.com/vmlens/executor-service) - ExecutorService supporting multiple writing and a single reading thread.
 * [Weak-lock-free](https://github.com/raphw/weak-lock-free) - concurrent map with weak keys and a detached thread local storage.
 
+Messaging & queues 
+------------------
+* https://github.com/real-logic/agrona
+* https://github.com/JCTools/JCTools
+
 Checkpoint & restore 
 --------------------
 * https://github.com/openjdk/crac
