@@ -51,6 +51,7 @@ Checkpoint & restore
 * https://thenewstack.io/azul-proposes-java-state-api-to-speed-app-start-up-times/
 * https://mbien.dev/blog/entry/crac-coordinated-restore-at-checkpoint
 * https://danheidinga.github.io/Everyone_wants_fast_startup/
+* https://github.com/HanSolo/crac4
 
 CLI parser 
 ----------
