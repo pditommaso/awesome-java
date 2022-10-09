@@ -178,6 +178,7 @@ Serialization
 * [Ion](https://github.com/amznlabs/ion-java) - Java streaming parser/serializer for Ion.
 * [Kryo](https://github.com/EsotericSoftware/kryo) - Fast, efficient, automatic Java serialization and cloning.
 * [Kryo-serializers](https://github.com/magro/kryo-serializers)
+* [Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)
 
 Syntax parsing
 --------------
