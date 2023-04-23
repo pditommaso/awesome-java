@@ -233,7 +233,7 @@ Other
 * [TornadoVM](https://github.com/beehive-lab/TornadoVM) - Automatically run Java programs on GPUs
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
 * [hibernate-types](https://github.com/vladmihalcea/hibernate-types) - Extra types that are not supported by the Hibernate ORM core.
-
+* [java-stream-batch-processing](https://www.baeldung.com/java-stream-batch-processing)
 
 Web frameworks 
 --------------
