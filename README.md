@@ -41,6 +41,7 @@ Messaging & queues
 ------------------
 * https://github.com/real-logic/agrona
 * https://github.com/JCTools/JCTools
+* https://github.com/apache/ratis
 
 Checkpoint & restore 
 --------------------
@@ -193,6 +194,7 @@ Templating
 
 Task scheduler
 --------------
+* [db-scheduler](https://github.com/kagkarlsson/db-scheduler) - Persistent cluster-friendly scheduler for Java
 * [Jobrunr](https://github.com/jobrunr/jobrunr) - Background processing in Java. Backed by persistent storage.
 * [Workhorse](https://github.com/coodoo-io/workhorse) - Java EE Job Engine for background jobs and business critical tasks
 * [Sundial](https://github.com/knowm/Sundial) - Lightweight Java job scheduling framework forked from Quartz
