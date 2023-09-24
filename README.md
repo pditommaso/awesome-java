@@ -180,6 +180,7 @@ Serialization
 * [Kryo](https://github.com/EsotericSoftware/kryo) - Fast, efficient, automatic Java serialization and cloning.
 * [Kryo-serializers](https://github.com/magro/kryo-serializers)
 * [Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)
+* [Message-pack](https://github.com/msgpack/msgpack-java) - MessagePack serializer implementation for Java
 
 Syntax parsing
 --------------
