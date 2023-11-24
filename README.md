@@ -92,6 +92,7 @@ Dataflow & parallization
 * [Quasar](https://github.com/puniverse/quasar) - Fibers, Channels and Actors for the JVM.
 * [GPars](https://github.com/GPars/GPars) - Concurrency and parallelism framework for the JVM.
 * [Pipes](https://github.com/tinkerpop/pipes) - Lazy Data Flow Framework.
+* [Pekka](https://pekko.apache.org/) - Apache Pekko is a fork of Akka 2.6.x.
 
 DI
 -----
