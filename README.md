@@ -238,6 +238,7 @@ Other
 * [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
 * [hibernate-types](https://github.com/vladmihalcea/hibernate-types) - Extra types that are not supported by the Hibernate ORM core.
 * [java-stream-batch-processing](https://www.baeldung.com/java-stream-batch-processing)
+* [Simple-java-mail](https://github.com/bbottema/simple-java-mail) - Simple API, Complex Emails (Jakarta Mail smtp wrapper
 
 Web frameworks 
 --------------
