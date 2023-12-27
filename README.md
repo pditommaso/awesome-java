@@ -42,6 +42,7 @@ Messaging & queues
 * https://github.com/real-logic/agrona
 * https://github.com/JCTools/JCTools
 * https://github.com/apache/ratis
+* https://github.com/softwaremill/jox - Fast and Scalable Channels in Java
 
 Checkpoint & restore 
 --------------------
