@@ -128,6 +128,7 @@ Hashing
 * [icecore-hashids](https://github.com/arcticicestudio/icecore-hashids) - lightweight generator for short, unique, non-sequential and decodable Hashids from non-negative numbers
 * [jnanoid](https://github.com/aventrix/jnanoid) - tiny (108 bytes), secure, URL-friendly, unique string ID generator - https://github.com/ai/nanoid
 * [friendly-id](https://github.com/Devskiller/friendly-id) - Converts a given UUID to Base62 format (22 chars)
+* [hash4j](https://github.com/dynatrace-oss/hash4j) - Dynatrace hash library for Java
 
 Http 
 -----
