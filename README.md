@@ -234,6 +234,7 @@ Other
 * [K8s-cli-java](https://github.com/codementor/k8s-cli-java) - Simple Java Demo of Kubernetes kubectl plugin + Java Graal native image.
 * [fabric8io/kubernetes-client](https://github.com/fabric8io/kubernetes-client) - Java client for Kubernetes & OpenShift.
 * [MmgGameApiJava](https://github.com/vbrusca/MmgGameApiJava) - Java library for creating 2D games right in the IDE.
+* [Packrat](https://github.com/jhspetersson/packrat) - Gatherers library for Java Stream API
 * [Permit-reflect](https://github.com/nqzero/permit-reflect) - Permit reflective access for java 11.
 * [square/OKIO](https://github.com/square/OKIO) - A modern I/O API for Java.
 * [text-io](https://github.com/beryx/text-io) - library for creating interactive console applications in Java
