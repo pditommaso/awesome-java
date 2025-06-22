@@ -86,7 +86,7 @@ DB engines
 * [MapDB](https://github.com/jankotek/mapdb/) - Fast and easy to use embedded Java database engine.
 * [Xodus](https://github.com/JetBrains/xodus/) - JetBrains Xodus is a Java transactional schema-less embedded database.
 
-Dataflow & parallization
+Dataflow & parallelization
 ------------------------
 * [Actr](https://github.com/zakgof/actr) - Simple, fast and typesafe Java actor model implementation.
 * [JCSP](https://github.com/CSPforJAVA/jcsp) - Communicating Sequential Processes (CSP) for Java.
