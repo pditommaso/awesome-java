@@ -146,6 +146,7 @@ Logging
 -------
 * [blitz4j](https://github.com/Netflix/blitz4j) - Logging framework for fast asynchronous logging.
 * [log4j2](https://logging.apache.org/log4j/2.x/) - Async Loggers have 18 times higher throughput than Log4j 1.x and Logback.
+* [tinylog](https://tinylog.org/) - Simple logging framework without boilerplate code.
 
 Math & ML
 ---------
