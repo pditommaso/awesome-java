@@ -255,8 +255,9 @@ Web frameworks
 --------------
 * [Jooby](https://github.com/jooby-project/jooby) - Scalable, fast and modular micro web framework for Java.
 * [Micronaut](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework.
+* [minimum](https://github.com/byronka/minum) - A web framework employing system-thinking that takes minimalism, kaizen and TDD to an extreme.
 * [Play framework](https://github.com/playframework/playframework) - High Velocity Web Framework.
-* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications .
+* [Ratpack](https://github.com/ratpack/ratpack) - A toolkit for JVM web applications.
 * [Spark](https://github.com/perwendel/spark) - A Sinatra inspired framework for java.
 * [Vert.x](https://github.com/eclipse/vert.x/) - Vert.x is a tool-kit for building reactive applications on the JVM.
 
