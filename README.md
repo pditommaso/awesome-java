@@ -14,6 +14,7 @@ Annotation processor
 * [immutables](https://github.com/immutables/immutables) - Annotation processor to create immutable objects and builders.
 * [Lombok](https://projectlombok.org/) - Lombok is used to reduce boilerplate code for model/data objects.
 * [mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
+* [record-build](https://github.com/Randgalt/record-builder) - Record builder generator for Java records
 
 Big collections, cache & off-heap memory  
 ----------------------------------------
