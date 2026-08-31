@@ -251,6 +251,7 @@ Other
 * [hibernate-types](https://github.com/vladmihalcea/hibernate-types) - Extra types that are not supported by the Hibernate ORM core.
 * [java-stream-batch-processing](https://www.baeldung.com/java-stream-batch-processing)
 * [Simple-java-mail](https://github.com/bbottema/simple-java-mail) - Simple API, Complex Emails (Jakarta Mail smtp wrapper
+* [Ujorm](https://github.com/pponec/ujorm) - JDBC mapping library for Java 17+ with a compile-time checked query DSL and no third-party runtime dependencies.
 
 Web frameworks 
 --------------
